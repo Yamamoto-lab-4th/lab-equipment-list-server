@@ -1,0 +1,55 @@
+name: LEL_server
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - alembic=1.4.3=pyh9f0ad1d_0
+  - blas=1.0=mkl
+  - brotlipy=0.7.0=py37h9ed2024_1003
+  - ca-certificates=2020.12.8=hecd8cb5_0
+  - certifi=2020.12.5=py37hecd8cb5_0
+  - cffi=1.14.4=py37h2125817_0
+  - chardet=4.0.0=py37hecd8cb5_1003
+  - click=7.1.2=py_0
+  - cryptography=3.3.1=py37hbcfaee0_0
+  - flask=1.1.2=py_0
+  - flask-migrate=2.4.0=py37hc8dfbb8_1
+  - flask-sqlalchemy=2.4.4=py_0
+  - idna=2.10=py_0
+  - intel-openmp=2019.4=233
+  - itsdangerous=1.1.0=py37_0
+  - jinja2=2.11.2=py_0
+  - libcxx=10.0.0=1
+  - libedit=3.1.20191231=h1de35cc_1
+  - libffi=3.3=hb1e8313_2
+  - mako=1.1.3=pyh9f0ad1d_0
+  - markupsafe=1.1.1=py37h1de35cc_0
+  - mkl=2019.4=233
+  - mkl-service=2.3.0=py37h9ed2024_0
+  - mkl_fft=1.2.0=py37hc64f4ea_0
+  - mkl_random=1.1.1=py37h959d312_0
+  - ncurses=6.2=h0a44026_1
+  - numpy=1.19.2=py37h456fd55_0
+  - numpy-base=1.19.2=py37hcfb5961_0
+  - openssl=1.1.1i=h9ed2024_0
+  - pip=20.3.3=py37hecd8cb5_0
+  - pycparser=2.20=py_2
+  - pyopenssl=20.0.1=pyhd3eb1b0_1
+  - pysocks=1.7.1=py37hecd8cb5_0
+  - python=3.7.9=h26836e1_0
+  - python-dateutil=2.8.1=py_0
+  - python-editor=1.0.4=py_0
+  - python_abi=3.7=1_cp37m
+  - readline=8.0=h1de35cc_0
+  - requests=2.25.1=pyhd3eb1b0_0
+  - setuptools=51.0.0=py37hecd8cb5_2
+  - six=1.15.0=pyh9f0ad1d_0
+  - sqlalchemy=1.3.21=py37h9ed2024_0
+  - sqlite=3.33.0=hffcf06c_0
+  - tk=8.6.10=hb0a8c7a_0
+  - urllib3=1.26.2=pyhd3eb1b0_0
+  - werkzeug=1.0.1=py_0
+  - wheel=0.36.2=pyhd3eb1b0_0
+  - xz=5.2.5=h1de35cc_0
+  - zlib=1.2.11=h1de35cc_3
+prefix: /Users/kenya/opt/anaconda3/envs/LEL_server
